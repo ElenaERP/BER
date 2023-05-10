@@ -5,7 +5,7 @@
   align-items: center;
   font-family: Merriweather, serif;
   display: block;
-  overflow: hidden;
+  overflow: visible;
 }
 
 .navigation-bar {
