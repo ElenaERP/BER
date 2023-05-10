@@ -1085,6 +1085,7 @@
 .background-video {
   height: 800px;
   mix-blend-mode: normal;
+  overflow: visible;
 }
 
 .image-11 {
